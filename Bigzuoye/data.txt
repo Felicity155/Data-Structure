@@ -1,0 +1,6 @@
+名称	 品牌	 价格	 数量
+water	 nongfu	 2	 190
+coco	 baishi	 4	 90
+chip	 leshi	 6	 33
+iphone	 mi	 2300	 70
+macbook	 apple	 9500	 12

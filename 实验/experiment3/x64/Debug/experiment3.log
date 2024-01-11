@@ -1,0 +1,6 @@
+﻿  experiment3.cpp
+E:\数据结构\实验\experiment3\experiment3.cpp(63,22): warning C4473: “fscanf_s”: 没有为格式字符串传递足够的参数
+E:\数据结构\实验\experiment3\experiment3.cpp(63,22): message : 占位符和其参数预计 5 可变参数，但提供的却是 4 参数
+E:\数据结构\实验\experiment3\experiment3.cpp(63,22): message : 缺失的可变参数 5 为格式字符串“%c”所需
+E:\数据结构\实验\experiment3\experiment3.cpp(63,22): message : 此参数用作缓冲区大小
+  experiment3.vcxproj -> E:\数据结构\实验\experiment3\x64\Debug\experiment3.exe

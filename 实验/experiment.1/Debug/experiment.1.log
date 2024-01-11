@@ -1,0 +1,8 @@
+﻿  experiment.1.cpp
+E:\数据结构\experiment.1\experiment.1.cpp(78,15): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+experiment.1.obj : error LNK2019: 无法解析的外部符号 "void __cdecl DelFirst(struct LNode * *,struct LElemType *)" (?DelFirst@@YAXPAPAULNode@@PAULElemType@@@Z)，函数 "void __cdecl LunchSimulation(void)" (?LunchSimulation@@YAXXZ) 中引用了该符号
+experiment.1.obj : error LNK2019: 无法解析的外部符号 "void __cdecl InitSueue(struct LinkSueue *)" (?InitSueue@@YAXPAULinkSueue@@@Z)，函数 "void __cdecl OpenLunch(void)" (?OpenLunch@@YAXXZ) 中引用了该符号
+experiment.1.obj : error LNK2019: 无法解析的外部符号 "int __cdecl DelSueue(struct LinkSueue *,struct SElemType *)" (?DelSueue@@YAHPAULinkSueue@@PAUSElemType@@@Z)，函数 "void __cdecl StudentDeparture(void)" (?StudentDeparture@@YAXXZ) 中引用了该符号
+experiment.1.obj : error LNK2019: 无法解析的外部符号 "int __cdecl EnSueue(struct LinkSueue *,struct SElemType)" (?EnSueue@@YAHPAULinkSueue@@USElemType@@@Z)，函数 "void __cdecl StudentArriving(void)" (?StudentArriving@@YAXXZ) 中引用了该符号
+experiment.1.obj : error LNK2019: 无法解析的外部符号 "int __cdecl QueueLength(struct LinkSueue)" (?QueueLength@@YAHULinkSueue@@@Z)，函数 "void __cdecl StudentArriving(void)" (?StudentArriving@@YAXXZ) 中引用了该符号
+E:\数据结构\experiment.1\Debug\experiment.1.exe : fatal error LNK1120: 5 个无法解析的外部命令

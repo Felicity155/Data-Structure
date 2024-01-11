@@ -1,0 +1,10 @@
+﻿  zuoyeNO.3.cpp
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(89,17): error C2872: “size”: 不明确的符号
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(13,5): message : 可能是“int size”
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(89,17): message : 或  “size”
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(110,30): error C2872: “size”: 不明确的符号
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(13,5): message : 可能是“int size”
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(110,30): message : 或  “size”
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(116,30): error C2872: “size”: 不明确的符号
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(13,5): message : 可能是“int size”
+E:\数据结构\zuoyeNO.3\zuoyeNO.3.cpp(116,30): message : 或  “size”

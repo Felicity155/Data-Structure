@@ -1,0 +1,2831 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:st1="urn:schemas-microsoft-com:office:smarttags"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=gb2312">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="《排序》练习题.files/filelist.xml">
+<title> 第一章 绪论</title>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="place"/>
+<o:SmartTagType namespaceuri="urn:schemas-microsoft-com:office:smarttags"
+ name="chmetcnv" downloadurl=""/>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>cnsk</o:Author>
+  <o:LastAuthor>微软用户</o:LastAuthor>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>584</o:TotalTime>
+  <o:LastPrinted>2004-05-08T12:37:00Z</o:LastPrinted>
+  <o:Created>2004-06-27T07:56:00Z</o:Created>
+  <o:LastSaved>2012-11-26T13:42:00Z</o:LastSaved>
+  <o:Pages>16</o:Pages>
+  <o:Words>2302</o:Words>
+  <o:Characters>13128</o:Characters>
+  <o:Company>ytu</o:Company>
+  <o:Lines>109</o:Lines>
+  <o:Paragraphs>30</o:Paragraphs>
+  <o:CharactersWithSpaces>15400</o:CharactersWithSpaces>
+  <o:Version>11.5606</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:View>Print</w:View>
+  <w:HideSpellingErrors/>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:PunctuationKerning/>
+  <w:DrawingGridVerticalSpacing>7.55 磅</w:DrawingGridVerticalSpacing>
+  <w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery>
+  <w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:Compatibility>
+   <w:SpaceForUL/>
+   <w:BalanceSingleByteDoubleByteWidth/>
+   <w:DoNotLeaveBackslashAlone/>
+   <w:ULTrailSpace/>
+   <w:DoNotExpandShiftReturn/>
+   <w:AdjustLineHeightInTable/>
+   <w:BreakWrappedTables/>
+   <w:SnapToGridInCell/>
+   <w:WrapTextWithPunct/>
+   <w:UseAsianBreakRules/>
+   <w:UseWord2002TableStyleRules/>
+   <w:UseFELayout/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]--><!--[if !mso]><object
+ classid="clsid:38481807-CA0E-42D2-BF39-B33AF135CC4D" id=ieooui></object>
+<style>
+st1\:*{behavior:url(#ieooui) }
+</style>
+<![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:宋体;
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-alt:SimSun;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+@font-face
+	{font-family:"\@宋体";
+	panose-1:2 1 6 0 3 1 1 1 1 1;
+	mso-font-charset:134;
+	mso-generic-font-family:auto;
+	mso-font-pitch:variable;
+	mso-font-signature:3 135135232 16 0 262145 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+h1
+	{mso-style-next:正文;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	mso-outline-level:1;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:22.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-font-kerning:0pt;
+	mso-ansi-language:ZH-CN;
+	font-weight:normal;}
+h2
+	{mso-style-next:正文;
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:13.5pt;
+	margin-bottom:.0001pt;
+	text-indent:-13.5pt;
+	mso-pagination:none;
+	mso-outline-level:2;
+	mso-layout-grid-align:none;
+	text-autospace:none;
+	font-size:16.0pt;
+	font-family:"Times New Roman";
+	color:black;
+	mso-ansi-language:ZH-CN;
+	font-weight:normal;}
+p.MsoNormalIndent, li.MsoNormalIndent, div.MsoNormalIndent
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	text-indent:21.0pt;
+	mso-char-indent-count:2.0;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:center;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	border:none;
+	mso-border-bottom-alt:solid windowtext .75pt;
+	padding:0cm;
+	mso-padding-alt:0cm 0cm 1.0pt 0cm;
+	font-size:9.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	mso-pagination:none;
+	tab-stops:center 207.65pt right 415.3pt;
+	layout-grid-mode:char;
+	font-size:9.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyText, li.MsoBodyText, div.MsoBodyText
+	{margin-top:0cm;
+	margin-right:1.3pt;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	tab-stops:426.0pt 511.2pt;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoBodyTextIndent, li.MsoBodyTextIndent, div.MsoBodyTextIndent
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:21.0pt;
+	mso-para-margin-top:0cm;
+	mso-para-margin-right:0cm;
+	mso-para-margin-bottom:6.0pt;
+	mso-para-margin-left:2.0gd;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	mso-bidi-font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+p.MsoPlainText, li.MsoPlainText, div.MsoPlainText
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-pagination:none;
+	font-size:10.5pt;
+	font-family:宋体;
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";
+	mso-font-kerning:1.0pt;}
+p.HeaderBase, li.HeaderBase, div.HeaderBase
+	{mso-style-name:"Header Base";
+	mso-style-parent:正文文本;
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	mso-line-height-alt:9.0pt;
+	mso-pagination:lines-together;
+	tab-stops:center 216.0pt right 432.0pt;
+	font-size:10.5pt;
+	mso-bidi-font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:宋体;
+	mso-font-kerning:1.0pt;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+ /* Page Definitions */
+ @page
+	{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}
+@page Section1
+	{size:21.0cm 842.0pt;
+	margin:42.55pt 1.0cm 1.0cm 42.55pt;
+	mso-header-margin:42.55pt;
+	mso-footer-margin:49.6pt;
+	mso-paper-source:0;
+	layout-grid:15.1pt .9pt;
+	mso-layout-grid-char-alt:3690;}
+div.Section1
+	{page:Section1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:1061097795;
+	mso-list-type:hybrid;
+	mso-list-template-ids:-862415298 1138398318 67698713 67698715 67698703 67698713 67698715 67698703 67698713 67698715;}
+@list l0:level1
+	{mso-level-text:（%1）;
+	mso-level-tab-stop:57.0pt;
+	mso-level-number-position:left;
+	margin-left:57.0pt;
+	text-indent:-36.0pt;}
+@list l0:level2
+	{mso-level-tab-stop:72.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level3
+	{mso-level-tab-stop:108.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level4
+	{mso-level-tab-stop:144.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level5
+	{mso-level-tab-stop:180.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level6
+	{mso-level-tab-stop:216.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level7
+	{mso-level-tab-stop:252.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level8
+	{mso-level-tab-stop:288.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+@list l0:level9
+	{mso-level-tab-stop:324.0pt;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;}
+ol
+	{margin-bottom:0cm;}
+ul
+	{margin-bottom:0cm;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:普通表格;
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
+	mso-para-margin:0cm;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="1216"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=ZH-CN style='tab-interval:21.0pt;text-justify-trim:punctuation'>
+
+<div class=Section1 style='layout-grid:15.1pt .9pt;mso-layout-grid-char-alt:
+3690'>
+
+<p class=MsoNormal><span lang=EN-US style='mso-bidi-font-size:10.5pt;
+font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><b><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></b></span><span
+style='font-size:14.0pt;font-family:宋体;mso-bidi-font-weight:bold'>第<span
+lang=EN-US>10</span>章<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span></span>排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>一、选择题<span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal style='line-height:150%;mso-outline-level:1;tab-stops:44.25pt'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>1</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>．<span class=GramE>某内排序</span>方法的稳定性是指<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>。 【南京理工大学<span
+lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:44.25pt'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>A</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．该排序算法不允许有相同的关键字记录<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B</span>．该排序算法允许有相同的关键字记录<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:44.25pt'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>C</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．平均时间为<span lang=EN-US>0</span>（<span
+lang=EN-US>n log n</span>）的排序方法<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D</span>．以上都不对
+<span lang=EN-US style='mso-bidi-font-weight:bold'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>2</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下面给出的四种排序法中<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>排序法是不稳定性排序法。【北京航空航天大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span>A. </span><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>插入<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>冒泡<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>二路归并<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D. </span>堆积<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>3</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列排序算法中，其中（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）是稳定的。 【福州大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>堆排序，冒泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>快速排序，堆排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'><span style='mso-spacerun:yes'>&nbsp; </span>C. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>直接选择排序，归并排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span>D. </span>归并排序，冒泡排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:12.9pt;text-indent:-12.9pt;mso-char-indent-count:
+-1.0;line-height:150%;tab-stops:210.75pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>4</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．稳定的排序方法是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>【北方交通大学<span lang=EN-US>
+2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．直接插入排序和快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B</span>．折半插入排序和起泡排序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>C</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．简单选择排序和四路归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>D</span>．树形选择排序和<span lang=EN-US>shell</span>排序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>5</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列排序方法中，哪一个是稳定的排序方法？（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>　）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【北方交通大学<span lang=EN-US> 2001</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．直接选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B</span>．二分法插入排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C</span>．希尔排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D</span>．快速排序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>6</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．若要求尽可能快地对序列进行稳定的排序，则应选（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>　）。<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;mso-para-margin-left:.96gd;
+text-indent:12.9pt;mso-char-indent-count:1.0;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>A</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>．快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>B</span>．归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>C</span>．冒泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span>【北京邮电大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>7</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．如果待排序序列中两个数据元素具有相同的值，在排序前后它们的相互位置发生颠倒，则称该排序算法是不稳定的。（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）就是不稳定的排序方法。【清华大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．起泡排序<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>B</span>．归并排序 <span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;</span>C</span>．<span lang=EN-US>Shell</span>排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>D</span>．直接插入排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>E</span>．简单选择排序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-36.75pt;mso-char-indent-count:
+-2.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>8</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．若要求排序是稳定的，且关键字为实数，则在下列排序方法中应选（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）排序为宜。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．直接插入<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>B</span>．直接选择<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>C</span>．堆<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>D</span>．快速<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>E</span>．基数<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span></span>【<span style='color:black'>中科院计算所<span lang=EN-US> 2000</span></span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:64.5pt;text-indent:-64.5pt;mso-char-indent-count:
+-5.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>9</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．若需在<span lang=EN-US>O(nlog<sub>2</sub>n)</span>的时间内完成对数组的排序，且要求排序是稳定的，则可选择的排序方法<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>是（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span></span>）。【中国科技大学<span lang=EN-US> 1998</span>】 【<span style='color:black'>中科院计算所<span
+lang=EN-US>1998</span></span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;</span>A. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>堆排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;</span>C. </span>归并排序<span
+lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>直接插入排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>10</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下面的排序算法中，不稳定的是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>） 【北京工业大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;mso-char-indent-count:2.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A.</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>起泡排序<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>B.</span>折半插入排序 <span lang=EN-US>C.</span>简单选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>D.</span>希尔排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>E.</span>基数排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>F.</span>堆排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:12.9pt;text-indent:-12.9pt;mso-char-indent-count:
+-1.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>11</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列内部排序算法中：<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【北京工业大学<span lang=EN-US> 2000</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:28.1pt;mso-char-indent-count:2.18;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>B.</span>直接插入排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>C. </span>二路归并排序 <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;</span>D. </span><span
+class=GramE><span style='font-size:12.0pt;line-height:150%;font-family:宋体'>简单选择排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span>E</span></span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>起泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>F. </span>堆排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>（<span lang=EN-US>1</span>）其比较次数与序列初态无关的算法是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;</span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>（<span lang=EN-US>2</span>）不稳定的排序算法是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:51.75pt;mso-para-margin-left:1.71gd;
+text-indent:-32.25pt;mso-char-indent-count:-2.5;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>（<span lang=EN-US>3</span>）在初始序列已基本有序（除去<span
+lang=EN-US>n</span><span class=GramE>个</span>元素中的某<span lang=EN-US>k</span><span
+class=GramE>个</span>元素后即呈有序，<span lang=EN-US>k&lt;&lt;n</span>）的情况下，排序效率最高的算法是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>（<span lang=EN-US>4</span>）排序的平均时间复杂度为<span lang=EN-US>O(n</span>&#8226;<span
+lang=EN-US>logn)</span>的算法是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）为<span lang=EN-US>O(n</span>&#8226;<span
+lang=EN-US>n)</span>的算法是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>12</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．排序趟数与序列的原始状态有关的排序方法是<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>排序法。【北京航空航天大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span>A</span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>．插入<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>选择<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;&nbsp;</span>C. </span>冒泡<span
+lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>快速<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>13</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下面给出的四种排序方法中，排序过程中的比较次数与排序方法无关的是。<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;mso-char-indent-count:2.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．选择排序法<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>插入排序法<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>快速排序法<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D. </span>堆积排序法<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>【北京航空航天大学<span lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:51.6pt;text-indent:-51.6pt;mso-char-indent-count:
+-4.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>14</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．对下列四种排序方法，在排序中关键字比较次数<span class=GramE>同记录</span>初始排列无关的是<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．直接插入<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>B. </span>二分法插入 <span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;</span>C. </span>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>D. </span>归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【南京理工大学<span lang=EN-US> 2000</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>15</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span style='color:black'>在下列排序算法中<span lang=EN-US>,</span>哪一个算法的时间复杂度与初始排序无关</span>（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>）<span
+style='color:black'>。</span>【北京理工大学<span lang=EN-US> 2001</span>】<span
+lang=EN-US style='color:black'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black'>A</span><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;color:black'>． 直接插入排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>B.<span
+style='mso-spacerun:yes'>&nbsp; </span></span>气泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>C.<span
+style='mso-spacerun:yes'>&nbsp; </span></span>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>D.<span
+style='mso-spacerun:yes'>&nbsp; </span></span>直接选择排序</span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>16</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．比较次数与排序的初始状态无关的排序方法是<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>)</span>。 【北方交通大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．直接插入排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B</span>．起泡排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C</span>．快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D</span>．简单选择排序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>17</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．数据序列（<span lang=EN-US>8</span>，<span lang=EN-US>9</span>，<span
+lang=EN-US>10</span>，<span lang=EN-US>4</span>，<span lang=EN-US>5</span>，<span
+lang=EN-US>6</span>，<span lang=EN-US>20</span>，<span lang=EN-US>1</span>，<span
+lang=EN-US>2</span>）只能是下列排序算法中的<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>的两趟排序后的结果。【合肥工业大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;mso-char-indent-count:2.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B.</span>冒泡排序<span
+lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C.</span>插入排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D.</span>堆排序<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>18</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．数据序列（<span lang=EN-US>2</span>，<span lang=EN-US>1</span>，<span
+lang=EN-US>4</span>，<span lang=EN-US>9</span>，<span lang=EN-US>8</span>，<span
+lang=EN-US>10</span>，<span lang=EN-US>6</span>，<span lang=EN-US>20</span>）只能是下列排序算法中的<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>的两趟排序后的结果。【合肥工业大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>冒泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>插入排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:12.9pt;text-indent:-12.9pt;mso-char-indent-count:
+-1.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>19</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．对一组数据（<span lang=EN-US>84</span>，<span lang=EN-US>47</span>，<span
+lang=EN-US>25</span>，<span lang=EN-US>15</span>，<span lang=EN-US>21</span>）排序，数据的排列次序在排序的过程中的变化为<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>（<span lang=EN-US>1</span>）<span lang=EN-US> 84 47 25 15 21<span
+style='mso-spacerun:yes'>&nbsp; </span></span>（<span lang=EN-US>2</span>）<span
+lang=EN-US> 15 47 25 84 21<span style='mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>（<span lang=EN-US>3</span>）<span lang=EN-US> 15 21 25 84 47<span
+style='mso-spacerun:yes'>&nbsp; </span></span>（<span lang=EN-US>4</span>）<span
+lang=EN-US> 15 21 25 47 84 <o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>则采用的排序是<span lang=EN-US> (<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>)</span>。<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>【南京理工大学<span
+lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:44.25pt'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>A. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>选择<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>冒泡<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>快速<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>插入<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>20</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．对序列<span lang=EN-US>{15</span>，<span lang=EN-US>9</span>，<span
+lang=EN-US>7</span>，<span lang=EN-US>8</span>，<span lang=EN-US>20</span>，<span
+lang=EN-US>-1</span>，<span lang=EN-US>4}</span>进行排序，进行一趟后数据的排列变为<span
+lang=EN-US>{4</span>，<span lang=EN-US>9</span>，<span lang=EN-US>-1</span>，<span
+lang=EN-US>8</span>，<span lang=EN-US>20</span>，<span lang=EN-US>7</span>，<span
+lang=EN-US>15}</span>；则采用的是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）排序。 【南京理工大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:26.95pt;mso-char-indent-count:2.09;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>选择<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>快速<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>希尔<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>冒泡<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:30.2pt;text-indent:-30.2pt;mso-char-indent-count:
+-2.34;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>21</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span style='mso-bidi-font-weight:bold'>若上题的数据经一趟排序后的排列为<span
+lang=EN-US>{9</span>，<span lang=EN-US>15</span>，<span lang=EN-US>7</span>，<span
+lang=EN-US>8</span>，<span lang=EN-US>20</span>，<span lang=EN-US>-1</span>，<span
+lang=EN-US>4}</span>，则采用的是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>）排序。<span lang=EN-US><o:p></o:p></span></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．选择<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>堆<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>直接插入<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>D. </span>冒泡<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【南京理工大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>22</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列排序算法中<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>不能保证每趟排序至少能将一个元素放到其最终的位置上。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:93.0pt'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>A.</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>B. shell</span>排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>C. </span>堆排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>D.</span>冒泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【合肥工业大学<span lang=EN-US> 2001</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:19.6pt;text-indent:-19.6pt;mso-char-indent-count:
+-1.52;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>23</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列排序算法中<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>排序在一趟结束后不一定能选出一个元素放在其最终位置上。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span class=GramE><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>选择<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>B</span></span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>冒泡<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>C. </span>归并<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>D. </span>堆【南京理工大学<span
+lang=EN-US> 2001</span>】 【哈尔滨工业大学<span lang=EN-US> 2001</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>24</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列序列中，（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）是执行第一趟快速排序后所得的序列。<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【福州大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span>A. [68</span><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>，<span lang=EN-US>11</span>，<span lang=EN-US>18</span>，<span lang=EN-US>69]<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>[23</span>，<span lang=EN-US>93</span>，<span
+lang=EN-US>73]<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. [68</span>，<span
+lang=EN-US>11</span>，<span lang=EN-US>69</span>，<span lang=EN-US>23]<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>[18</span>，<span lang=EN-US>93</span>，<span
+lang=EN-US>73] <o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:5.15pt;text-indent:-5.15pt;mso-char-indent-count:
+-.4;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span>C. [93</span><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>，<span lang=EN-US>73]<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>[68</span>，<span
+lang=EN-US>11</span>，<span lang=EN-US>69</span>，<span lang=EN-US>23</span>，<span
+lang=EN-US>18]<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D. [68</span>，<span
+lang=EN-US>11</span>，<span lang=EN-US>69</span>，<span lang=EN-US>23</span>，<span
+lang=EN-US>18]<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>[93</span>，<span
+lang=EN-US>73]<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>25</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．有一组数据（<span lang=EN-US>15</span>，<span lang=EN-US>9</span>，<span
+lang=EN-US>7</span>，<span lang=EN-US>8</span>，<span lang=EN-US>20</span>，<span
+lang=EN-US>-1</span>，<span lang=EN-US>7</span>，<span lang=EN-US>4</span>） 用快速排序的划分方法进行一趟划分后数据的排序为<span
+lang=EN-US> (<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>（按递增序）。<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【南京理工大学<span
+lang=EN-US> 1996</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下面的<span lang=EN-US>B</span>，<span lang=EN-US>C</span>，<span
+lang=EN-US>D</span>都不对。<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B</span>．<span
+lang=EN-US>9</span>，<span lang=EN-US>7</span>，<span lang=EN-US>8</span>，<span
+lang=EN-US>4</span>，<span lang=EN-US>-1</span>，<span lang=EN-US>7</span>，<span
+lang=EN-US>15</span>，<span lang=EN-US>20<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>C</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>20</span>，<span lang=EN-US>15</span>，<span
+lang=EN-US>8</span>，<span lang=EN-US>9</span>，<span lang=EN-US>7</span>，<span
+lang=EN-US>-1</span>，<span lang=EN-US>4</span>，<span lang=EN-US>7<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>D. 9</span>，<span
+lang=EN-US>4</span>，<span lang=EN-US>7</span>，<span lang=EN-US>8</span>，<span
+lang=EN-US>7</span>，<span lang=EN-US>-1</span>，<span lang=EN-US>15</span>，<span
+lang=EN-US>20<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>26</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．一组记录的关键码为（<span lang=EN-US>46</span>，<span lang=EN-US>79</span>，<span
+lang=EN-US>56</span>，<span lang=EN-US>38</span>，<span lang=EN-US>40</span>，<span
+lang=EN-US>84</span>），则利用快速排序的方法，以第一个记录为基准得到的一次划分结果为（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【燕山大学<span lang=EN-US> 2001</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>(38,40,46,56,79,84)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. (40,38,46,79,56,84)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>C</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>(40,38,46,56,79,84)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. (40,38,46,84,56,79)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>27. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>在下面的排序方法中，辅助空间为<span lang=EN-US>O</span>（<span
+lang=EN-US>n</span>）的是<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>) </span>。 【南京理工大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>A</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>．希尔排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>堆排序<span
+lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D. </span>归并排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:19.6pt;text-indent:-19.6pt;mso-char-indent-count:
+-1.52;line-height:150%;tab-stops:36.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>28</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．下列排序算法中，在待排序数据已有序时，花费时间反而最多的是<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>)</span>排序。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:19.6pt;text-indent:-19.6pt;mso-char-indent-count:
+-1.52;line-height:150%;tab-stops:36.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>A</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>． 冒泡<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>B. </span>希尔<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>C. </span>快速<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>D. </span>堆<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【南京理工大学<span lang=EN-US> 2001</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:23.75pt;text-indent:-23.75pt;mso-char-indent-count:
+-1.84;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>29.</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>下列排序算法中，在每一趟都能选出一个元素放到其最终位置上，并且其时间性能受数据初始特性影响的是：（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>A. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>直接插入排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>快速排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>C.</span></span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;
+mso-font-kerning:0pt'><span style='mso-spacerun:yes'>&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>直接选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.<span
+style='mso-spacerun:yes'>&nbsp; </span></span>堆排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:23.85pt;text-indent:-23.85pt;mso-char-indent-count:
+-1.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>30. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>对初始状态为递增序列的表按递增顺序排序，最省时间的是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>）算法，最费时间的是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>）算法。<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>A. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>堆排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>B. </span>快速排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>C. </span>插入排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>D. </span><span
+class=GramE>归并排序<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【</span>南开大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>31. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>就平均性能而言，目前最好的内排序方法是<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>排序法。【西安电子科技大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>A. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>冒泡<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>B.</span></span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>希尔插入<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>C.<span
+style='mso-spacerun:yes'>&nbsp; </span></span>交换<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>D. </span>快速 <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>32</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>． 如果只想得到<span lang=EN-US>1000</span>个元素组成的序列中第<span lang=EN-US>5</span>个最小元素之前的部分排序的序列，用（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）方法最快。【清华大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．起泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>B</span>．快速排列<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>C</span>．<span lang=EN-US>Shell</span>排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span>D</span>．堆排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span>E</span>．简单选择排序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><i><u><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:36.8pt;mso-para-margin-left:1.53gd;
+text-indent:-19.35pt;mso-char-indent-count:-1.5;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>(1)</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>设有<span lang=EN-US>5000</span>个无序的元素<span
+lang=EN-US>,</span>希望用最快的速度挑选出其中前十个最大的元素<span lang=EN-US>,</span>在以下的排序方法中<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp; </span>)</span>最好<span
+lang=EN-US>?</span>为什么<span lang=EN-US>? </span>【山东工业大学<span lang=EN-US> 1995</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．快速排序<span lang=EN-US> B</span>．堆排序<span lang=EN-US> C</span>．归并排序<span
+lang=EN-US> D</span>．基数排序<span lang=EN-US> E</span>．<span lang=EN-US>SHELL</span>排序
+<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:43.25pt;mso-para-margin-left:1.53gd;
+text-indent:-25.8pt;mso-char-indent-count:-2.0;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>(2)</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>数据表中有<span lang=EN-US>10000</span>个元素，如果仅要求求出其中最大的<span
+lang=EN-US>10</span>个元素，则采用<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>算法最节省时间。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:32.25pt;mso-char-indent-count:2.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>堆排序<span lang=EN-US> B. </span>希尔排序<span lang=EN-US> C. </span>快速排序<span
+lang=EN-US> D. </span>直接选择排序 【北京理工大学<span lang=EN-US> 2000</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.85pt;mso-para-margin-left:2.1gd;
+text-indent:-12.9pt;mso-char-indent-count:-1.0;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>(3)</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>设有<span lang=EN-US>1000</span>个无序的元素，希望用最快的速度挑选出其中前十个最大的元素，在以下的排序方法中采用哪一种最好？<span
+lang=EN-US> (<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>【东北大学<span lang=EN-US> 1999</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>B. </span>归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>C. </span>堆排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>D.</span>基数排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>E.shell</span>排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>33</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．在文件“局部有序”或文件长度较小的情况下，最佳内部排序的方法是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．直接插入排序<span lang=EN-US> B</span>．冒泡排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>C</span>．简单选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【山东工业大学<span lang=EN-US> 1995</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><i><u><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:4.5pt;mso-char-indent-count:.35;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>(1)</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>在文件<span lang=EN-US>&quot;</span>局部有序<span lang=EN-US>&quot;</span>或文件长度较小的情况下，最佳内部排序的方法是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>A. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>直接插入排序<span
+lang=EN-US> B. </span>冒泡排序<span lang=EN-US> C. </span>简单选择排序<span lang=EN-US>
+D. </span>快速排序 【山东大学<span lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:4.5pt;mso-char-indent-count:.35;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>(2)</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>在待排序的元素序列基本有序的前提下，效率最高的排序方法是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。【武汉大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span>A.</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>插入排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>选择排序<span
+lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>C. </span>快速排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>归并排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-36.75pt;mso-char-indent-count:
+-2.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>34</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列排序算法中，（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）算法可能会出现下面情况：在最后一趟开始之前，所有元素都<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.85pt;mso-para-margin-left:2.28gd;
+text-indent:-10.85pt;mso-char-indent-count:-.84;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>不在其最终的位置上。 【南开大学<span
+lang=EN-US> 2000</span>】 【西北大学<span lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>A. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>堆排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>冒泡排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D. </span>插入排序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>35. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>下列排序算法中，占用辅助空间最多的是：<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>) </span>【</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>厦门大学<span lang=EN-US> 2002</span></span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>A. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>C. </span>希尔排序<span
+lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D. </span>堆排序</span><b><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>36</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．从未排序序列中依次取出一个元素与已排序序列中的元素依次进行比较，然后将其放在已排序序列的合适位置，该排序方法称为<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>排序法。【北京航空航天大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>插入<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>选择<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>希尔<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>二路归并<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>37. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>在排序算法中，每次从未排序的记录中挑出最小（或最大）关键码字的记录，加入到已排序记录的末尾，该排序方法是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。【中山大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>A. </span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>选择<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. </span>冒泡<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>C. </span>插入<span
+lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. </span>堆<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>38</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．用直接插入排序方法对下面四个序列进行排序（由小到大），元素比较次数最少的是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:112.5pt 234.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>A</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．<span lang=EN-US>
+94,32,40,90,80,46,21,69<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B</span>．<span lang=EN-US> 32<span class=GramE>,40,21,46,69,94,90,80</span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:112.5pt 234.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>C</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．<span lang=EN-US>
+21,32,46,40,80,69,90,94<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D</span>．<span lang=EN-US> 90<span class=GramE>,69,80,46,21,32,94,40</span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>【北方交通大学<span lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>39</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．直接插入排序在最好情况下的时间复杂度为（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）【北京邮电大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>A</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>．<span lang=EN-US>
+O(logn)<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B</span>．<span lang=EN-US> O(n)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C</span>．<span lang=EN-US> O(n*logn)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>D</span>．<span
+lang=EN-US> <span class=GramE>O(</span>n<sup>2</sup>)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>40. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>若用冒泡排序方法对序列<span lang=EN-US>{10,14,26,29,41,52}</span>从大到小排序，需进行
+（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）次比较。
+<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. 3<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. <st1:chmetcnv
+TCSC="0" NumberType="1" Negative="False" HasSpace="True" SourceValue="10"
+UnitName="C" w:st="on">10<span
+ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>C</st1:chmetcnv>.
+15<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. 25<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【南京理工大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><i><u><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:23.8pt;mso-para-margin-left:.39gd;
+text-indent:-19.35pt;mso-char-indent-count:-1.5;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>(1)</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>若用冒泡排序对关键字序列<span
+lang=EN-US>{18,16,14,12,10,8},</span>进行从小到大的排序，所需进行的关键字比较总次数是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>） 【北京工商大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. 10<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. <st1:chmetcnv
+TCSC="0" NumberType="1" Negative="False" HasSpace="True" SourceValue="15"
+UnitName="C" w:st="on">15<span
+ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>C</st1:chmetcnv>.
+21<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D.
+34<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>41. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>采用简单选择排序，比较次数与移动次数分别为<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>。【南京理工大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>A. O</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>（<span lang=EN-US>n</span>）<span
+class=GramE><span lang=EN-US>,O</span></span><span lang=EN-US>(logn)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>B. O(logn),0(n*n)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>C. 0(n*n),0(n)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>D. 0(nlogn),0(n)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>42. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>对序列<span lang=EN-US>{15</span>，<span lang=EN-US>9</span>，<span
+lang=EN-US>7</span>，<span lang=EN-US>8</span>，<span lang=EN-US>20</span>，<span
+lang=EN-US>-1</span>，<span lang=EN-US>4</span>，<span lang=EN-US>} </span><span
+class=GramE>用希尔</span>排序方法排序，经一趟后序列变为<span lang=EN-US>{15</span>，<span
+lang=EN-US>-l</span>，<span lang=EN-US>4</span>，<span lang=EN-US>8</span>，<span
+lang=EN-US>20</span>，<span lang=EN-US>9</span>，<span lang=EN-US>7}</span>则该次采用的增量是<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>) </span>【南京理工大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:21.75pt;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;</span>A. l<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B. <st1:chmetcnv TCSC="0" NumberType="1" Negative="False" HasSpace="True"
+SourceValue="4" UnitName="C" w:st="on">4<span
+ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ </span>C</st1:chmetcnv>. 3<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. 2<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>43</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．对下列关键字序列用快速排序法进行排序时，速度最快的情形是（　<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>）。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:36.0pt 234.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>A</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．<span lang=EN-US> {21,25,5,17,9,23,30}<span
+style='mso-spacerun:yes'>&nbsp; </span>B</span>．<span lang=EN-US>{25<span
+class=GramE>,23,30,17,21,5,9</span>}<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:36.0pt 234.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>C</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>． <span lang=EN-US>{21,9,17,30,25,23,5} </span>Ｄ．<span
+lang=EN-US> {5,9,17,21,23,25,30}</span>【北方交通大学<span lang=EN-US> 2001</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>44</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．对关键码序列<span lang=EN-US>28</span>，<span
+lang=EN-US>16</span>，<span lang=EN-US>32</span>，<span lang=EN-US>12</span>，<span
+lang=EN-US>60</span>，<span lang=EN-US>2</span>，<span lang=EN-US>5</span>，<span
+lang=EN-US>72</span>快速排序，从小到大一次划分结果为（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:36.0pt 234.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>A. (2,5,12,16)26(60,32,72) B.
+(5,16,2,12)28(60,32,72)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:36.0pt 234.0pt'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>C. (2,16,12,5)28(60,32,72) D.
+(5,16,2,12)28(32,60,72) </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>【青岛大学<span lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:12.9pt;text-indent:-12.9pt;mso-char-indent-count:
+-1.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>45</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．对<span lang=EN-US>n</span><span class=GramE>个</span>记录的线性表进行快速排序为减少算法的递归深度，以下叙述正确的是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．每次分区后，先处理较短的部分<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>B</span>．每次分区后，先处理较长的部分<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>C</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．与算法每次分区后的处理顺序无关<span lang=EN-US> D</span>．以上三者都不对<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【北方交通大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>46</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．当<span lang=EN-US>n</span><span class=GramE>个</span>整型数据是有序时，对这<span
+lang=EN-US>n</span><span class=GramE>个</span>数据用快速排序算法排序，则时间复杂度是<span
+lang=EN-US> ( 1 )</span>，当用递归算法求<span lang=EN-US>n!</span>时，算法的时间复杂度是<span
+lang=EN-US> ( 2 )</span>，则：<span lang=EN-US>(1)-(2)=</span>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>）【南京理工大学<span lang=EN-US>1999</span>】<span
+lang=EN-US>A. <span class=GramE>O(</span>n)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. O(nlogn)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>C.
+O(n*n)<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>D. O(logn)<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>47</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．快速排序在最坏情况下的时间复杂度是<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>),</span>比<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>)</span>的性能差。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>O(NlogN) B</span>．<span lang=EN-US>O(N<sup>2</sup>)
+C</span>．<span lang=EN-US>O(N<sup>3</sup>) D</span>．堆排序<span lang=EN-US>E</span>．冒泡排序<span
+lang=EN-US>F</span>．选择排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>【山东工业大学<span lang=EN-US> 1995</span>】<b><span lang=EN-US><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>48. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>快速排序方法在（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）情况下最不利于发挥其长处。<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【燕山大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>要排序的数据量太大<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>要排序的数据中含有多个相同值<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>C. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>要排序的数据个数为奇数<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>D. </span>要排序的数据已基本有序<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>49</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．在含有<span lang=EN-US>n</span><span class=GramE>个</span>关键字的小根堆（堆顶元素最小）中，关键字最大的记录有可能存储在（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>）位置上。【<span
+style='color:black'>中科院计算所<span lang=EN-US>2000</span></span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>A</span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>．</span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-ascii-font-family:
+宋体;mso-hansi-font-family:宋体;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&euml;</span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>n/2</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:Symbol;
+mso-ascii-font-family:宋体;mso-hansi-font-family:宋体;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&ucirc;</span></span><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B</span><span style='font-size:12.0pt;line-height:150%;font-family:宋体'>．</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:Symbol;
+mso-ascii-font-family:宋体;mso-hansi-font-family:宋体;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&euml;</span></span><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>n/2</span><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:Symbol;mso-ascii-font-family:宋体;mso-hansi-font-family:
+宋体;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span style='mso-char-type:
+symbol;mso-symbol-font-family:Symbol'>&ucirc;</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'> <st1:chmetcnv TCSC="0"
+NumberType="1" Negative="True" HasSpace="True" SourceValue="1" UnitName="C"
+w:st="on">-1<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>C</st1:chmetcnv></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>．<span lang=EN-US>1<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>D</span>．</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:Symbol;
+mso-ascii-font-family:宋体;mso-hansi-font-family:宋体;mso-char-type:symbol;
+mso-symbol-font-family:Symbol'><span style='mso-char-type:symbol;mso-symbol-font-family:
+Symbol'>&euml;</span></span><span class=GramE><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>n/2</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:Symbol;mso-ascii-font-family:
+宋体;mso-hansi-font-family:宋体;mso-char-type:symbol;mso-symbol-font-family:Symbol'><span
+style='mso-char-type:symbol;mso-symbol-font-family:Symbol'>&ucirc;</span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'> +2<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>50. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>以下序列不是堆的是<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>。【西安电子科技大学<span
+lang=EN-US> 2001</span>应用】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. (100,85,98,77,80,60,82,40,20,10,66) B. (100,98,85,82,80,77,66,60,40,20,10)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>C.(10,20,40,60,66,77,80,82,85,98,100)
+<span style='mso-spacerun:yes'>&nbsp;</span>D.
+(100,85,40,77,80,60,66,98,82,10,20)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>51</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．下列四个序列中，哪一个是堆（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。 【北京工商大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. 75,65,30,15,25,45,20,10<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>B.
+75,65,45,10,30,25,20,15<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>C. 75,45,65,30,15,25,20,10<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>D.
+75,45,65,10,25,30,20,15<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>52. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>堆排序是（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）类排序，堆排序平均执行的时间复杂度和需要附加的存储空间复杂度分别是（）。【西北大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span>A. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>插入<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>B. </span>交换<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>C. </span>归并<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>D. </span>基数<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>E. </span>选择<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;
+</span><span style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span>F. O</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>（<span lang=EN-US>n<sup>2</sup></span>）和<span
+lang=EN-US>O</span>（<span lang=EN-US>1</span>）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>G. O</span>（<span
+lang=EN-US>nlog<sub>2</sub>n</span>）和<span lang=EN-US>O</span>（<span
+lang=EN-US>1</span>） <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'><span style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span>H. O</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>（<span lang=EN-US>nlog<sub>2</sub>n</span>）和<span
+lang=EN-US>O</span>（<span lang=EN-US>n</span>）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span><st1:place w:st="on">I.</st1:place>
+O</span>（<span lang=EN-US>n<sup>2</sup></span>）和<span lang=EN-US>O</span>（<span
+lang=EN-US>n</span>）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:.15pt;text-indent:-.15pt;mso-char-indent-count:
+-.01;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>53</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．在对<span lang=EN-US>n</span><span class=GramE>个</span>元素的序列进行排序时，堆排序所需要的附加存储空间是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'><span style='mso-spacerun:yes'>&nbsp; </span>A. <span
+class=GramE>O(</span>log<sub>2</sub>n) B. O(1)<span
+style='mso-spacerun:yes'>&nbsp; </span>C. O(n)<span
+style='mso-spacerun:yes'>&nbsp; </span>D. O(nlog<sub>2</sub>n) </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【西安电子科技大学<span
+lang=EN-US>2001</span>应用】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>54</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．对<span lang=EN-US>n </span><span class=GramE>个</span>记录的文件进行堆排序，最坏情况下的执行时间是多少？（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>O</span>（<span lang=EN-US>log<sub>2</sub>n</span>）<span
+lang=EN-US>B</span>．<span lang=EN-US>O</span>（<span lang=EN-US>n</span>）<span
+lang=EN-US> C</span>．<span lang=EN-US>O</span>（<span lang=EN-US>nlog<sub>2</sub>n</span>）<span
+lang=EN-US> D</span>．<span lang=EN-US>O</span>（<span lang=EN-US>n*n</span>） 【北方交通大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>55. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>有一组数据（<span lang=EN-US>15</span>，<span
+lang=EN-US>9</span>，<span lang=EN-US>7</span>，<span lang=EN-US>8</span>，<span
+lang=EN-US>20</span>，<span lang=EN-US>-1</span>，<span lang=EN-US>7</span>，<span
+lang=EN-US>4</span>），用堆排序的筛选方法建立的初始堆为<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>-1</span>，<span lang=EN-US>4</span>，<span
+lang=EN-US>8</span>，<span lang=EN-US>9</span>，<span lang=EN-US>20</span>，<span
+lang=EN-US>7</span>，<span lang=EN-US>15</span>，<span lang=EN-US>7 <span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;</span>B</span>．<span lang=EN-US>-1</span>，<span
+lang=EN-US>7</span>，<span lang=EN-US>15</span>，<span lang=EN-US>7</span>，<span
+lang=EN-US>4</span>，<span lang=EN-US>8</span>，<span lang=EN-US>20</span>，<span
+lang=EN-US>9<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>C</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>-1</span>，<span lang=EN-US>4</span>，<span
+lang=EN-US>7</span>，<span lang=EN-US>8</span>，<span lang=EN-US>20</span>，<span
+lang=EN-US>15</span>，<span lang=EN-US>7</span>，<span lang=EN-US>9<span
+style='mso-spacerun:yes'>&nbsp; </span>D</span>．<span lang=EN-US>A</span>，<span
+lang=EN-US>B</span>，<span lang=EN-US>C</span>均不对。 【南京理工大学<span lang=EN-US> 1996</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>56. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>归并排序中，归并的趟数是<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>)</span>。【南京理工大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span lang=EN-US>O</span>（<span lang=EN-US>n</span>）<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;</span>B</span>．<span lang=EN-US>O(logn)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>C</span>．<span
+lang=EN-US>O(nlogn)<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>D</span>．<span
+class=GramE><span lang=EN-US>O(</span></span><span lang=EN-US>n*n) <o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><i><u><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:4.45pt;mso-para-margin-left:.39gd;
+text-indent:12.9pt;mso-char-indent-count:1.0;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>(1)</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>归并排序的时间复杂性是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。 【中山大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;</span>A.O</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>（<span lang=EN-US>N*N</span>）<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>B. O</span>（<span
+lang=EN-US>N</span>）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>C. O</span>（<span
+lang=EN-US>N*LOG</span>（<span lang=EN-US>N</span>））<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>D. O</span>（<span
+lang=EN-US>LOG</span>（<span lang=EN-US>N</span>））<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.75pt;text-indent:-36.75pt;mso-char-indent-count:
+-2.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>57</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．在排序算法中每一项都与其它各项进行比较，计算出小于该项的项的个数，以确定该项的<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:36.85pt;mso-para-margin-left:2.28gd;
+text-indent:-10.85pt;mso-char-indent-count:-.84;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>位置叫<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp; </span>)</span>。<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．插入排序<span lang=EN-US> B</span>．枚举排序<span lang=EN-US> C</span>．选择排序<span
+lang=EN-US> D</span>．交换排序【北京邮电大学<span lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=left style='margin-left:10.95pt;text-align:left;
+text-indent:-10.95pt;mso-char-indent-count:-.85;line-height:150%;mso-layout-grid-align:
+none;text-autospace:none'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>58</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>就排序算法所用的辅助空间而言，堆排序，快速排序，归并排序的关系是　（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:24.0pt;
+line-height:150%;mso-layout-grid-align:none;text-autospace:none'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;
+mso-font-kerning:0pt'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>．堆排序<span class=GramE>〈</span>　快速排序<span
+class=GramE>〈</span> 归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>　<span lang=EN-US>B</span>．堆排序<span
+class=GramE>〈</span>　归并排序<span class=GramE>〈</span> 快速排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:24.0pt;
+line-height:150%;mso-layout-grid-align:none;text-autospace:none'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;
+mso-font-kerning:0pt'>C</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>．堆排序 <span class=GramE>〉</span>
+归并排序 <span class=GramE>〉</span>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>　<span lang=EN-US>D</span>．堆排序<span
+lang=EN-US> &gt;<span style='mso-spacerun:yes'>&nbsp; </span></span>快速排序<span
+lang=EN-US> &gt; </span>归并排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span>E</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>．以上答案都不对<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>西安交通大学<span lang=EN-US> 1996</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>59</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．排序方法有许多种，<u>（<span lang=EN-US>1</span>）</u>法从未排序的序列中依次取出元素，与已排序序列（初始时为空）中的元素作比较，将其放入已排序序列的正确位置上；<u>（<span
+lang=EN-US>2</span>）</u>法从未排序的序列中挑选元素，并将其依次放入已排序序列（初始时为空）的一端； 交换排序方法是对序列中的元素进行一系列比较，当被比较的两元素逆序时，进行交换；<u>（<span
+lang=EN-US>3</span>）</u>和<u>（<span lang=EN-US>4</span>）</u>是基于这类方法的两种排序方法， 而<u>（<span
+lang=EN-US>4</span>）</u>是比<u>（<span lang=EN-US>3</span>）</u>效率更高的方法；<u>（<span
+lang=EN-US>5</span>）</u>法是基于选择排序的一种排序方法，是完全二叉树结构的一个重要应用。 【北方交通大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;mso-para-margin-left:.96gd;
+text-indent:6.45pt;mso-char-indent-count:.5;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>（<span lang=EN-US>1</span>）<span
+lang=EN-US>--</span>（<span lang=EN-US>5</span>）<span lang=EN-US>:<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>A</span>．选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>B</span>．快速排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>C</span>．插入排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>D</span>．起泡排序
+<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:122.3pt;mso-char-indent-count:9.48;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>E</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>F</span>．<span lang=EN-US>shell</span>排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>G</span>．堆排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>H</span>．基数排序<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.95pt;mso-char-indent-count:1.0;
+line-height:150%'><b><i><u><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:26.0pt;mso-para-margin-left:2.28gd;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>（<span lang=EN-US>1</span>）排序的方法有很多种，（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）法从未排序的序列中依次取出元素与已排序序列中的元素比较，将其放在已排序序列的正确位置上；（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）法从未排序序列中挑选元素，并将其依次放入已排序序列的一端；交换排序法是对序列中的元素进行一系列比较，当被比较的两元素逆序时，进行交换。（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）和（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）是基于这类方法的两种排序方法，而<span
+lang=EN-US> (<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>是比<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>效率更高的方法。供选择的答案：【山东大学<span
+lang=EN-US> 1998</span>】 【山东工业大学 <span lang=EN-US>2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>快速排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>B. </span>选择排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>C. </span>归并排序<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>D</span>．<span class=GramE>冒泡排序<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span>E</span></span>．直接插入排序<b><span
+lang=EN-US><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>60</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．</span><span class=GramE><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>设要将</span></span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>序列（<span lang=EN-US>q,h,c,y,p,a,m,s,r,d,f,x</span>）<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>中的关键码按字母升序重新排序，<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:19.35pt;
+mso-char-indent-count:1.5;line-height:150%;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>1</span>）（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>）是初始步长为<span
+lang=EN-US>4</span>的<span lang=EN-US>shell</span>排序一趟扫描的结果； <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:19.35pt;
+mso-char-indent-count:1.5;line-height:150%;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>2</span>）（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>）是对排序初始建堆的结果；<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:19.35pt;
+mso-char-indent-count:1.5;line-height:150%;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>3</span>）（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>）是以第一个元素为分界元素的快速一趟扫描的结果。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:19.35pt;
+mso-char-indent-count:1.5;line-height:150%;mso-layout-grid-align:none;
+text-autospace:none'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体;color:black;mso-font-kerning:0pt'>从下面供选择的答案中选出正确答案填入括号内。 </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>厦门大学<span lang=EN-US> 2000</span></span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>】</span><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:25.8pt;
+mso-char-indent-count:2.0;line-height:150%;mso-layout-grid-align:none;
+text-autospace:none'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>A.<span
+style='mso-spacerun:yes'>&nbsp; </span>f ,h ,c ,d ,p ,a ,m ,q ,r ,s ,y ,x<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>B.<span
+style='mso-spacerun:yes'>&nbsp; </span>p ,a ,c ,s ,q ,d ,f ,x ,r ,h ,m ,y<o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:25.8pt;
+mso-char-indent-count:2.0;line-height:150%;mso-layout-grid-align:none;
+text-autospace:none'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>C.<span
+style='mso-spacerun:yes'>&nbsp; </span>a ,d ,c ,r ,f ,q ,m ,s ,y ,p ,h ,x<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>D.<span
+style='mso-spacerun:yes'>&nbsp; </span>h ,c ,q ,p ,a ,m ,s ,r ,d ,f ,x ,y<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>E.<span
+style='mso-spacerun:yes'>&nbsp; </span>h ,q ,c ,y ,a ,p ,m ,s ,d ,r ,f ,x</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:12.95pt;mso-char-indent-count:1.0;
+line-height:150%'><b><i><u><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:19.5pt;mso-para-margin-left:1.71gd;
+text-indent:6.45pt;mso-char-indent-count:.5;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>（<span lang=EN-US>1</span>）在内排序的过程中<span
+lang=EN-US>,</span>通常需要对待排序的关键码进行多编扫描<span lang=EN-US>,</span>采用不同重新排序方法<span
+lang=EN-US>,</span>会产生不同的排序中间结果。<span class=GramE>设要将</span>序列<span lang=EN-US>&lt;Q,H,C,Y,P,A,M,S,R,D,F,X&gt;</span>中的关键码按字母序的升序排列，则<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp; </span>1<span
+style='mso-spacerun:yes'>&nbsp; </span>)</span>是冒泡排序一趟扫描的结果<span lang=EN-US>,(<span
+style='mso-spacerun:yes'>&nbsp; </span>2<span style='mso-spacerun:yes'>&nbsp;
+</span>)</span>是初始步长为<span lang=EN-US>4</span>的希尔<span lang=EN-US>(SHELL)</span>排序一趟扫描的结果<span
+lang=EN-US>,(<span style='mso-spacerun:yes'>&nbsp; </span>3<span
+style='mso-spacerun:yes'>&nbsp; </span>) </span>是合并排序一趟扫描的结果<span lang=EN-US>,(<span
+style='mso-spacerun:yes'>&nbsp; </span>4<span style='mso-spacerun:yes'>&nbsp;
+</span>)</span>是以第一个元素为分界元素的快速排序一趟扫描的结果<span lang=EN-US>,(<span
+style='mso-spacerun:yes'>&nbsp; </span>5<span style='mso-spacerun:yes'>&nbsp;
+</span>)</span>是堆排序初始建堆的结果。供选择的答案<span lang=EN-US>:<span
+style='mso-spacerun:yes'>&nbsp; </span></span>【上海海运学院<span lang=EN-US> 1997</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>1-5:A.f,h,c,d,p,a,m,q,r,s,y,x <span
+style='mso-spacerun:yes'>&nbsp;</span><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;</span>B.p,a,c,s,q,d,f,x,r,h,m,y<o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:45.15pt;
+mso-char-indent-count:3.5;line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>C.a,d,c,r,f,q,m,s,y,p,h,x<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span>D.h,c,q,p,a,m,s,r,d,f,x,y<o:p></o:p></span></p>
+
+<p class=MsoNormal align=left style='text-align:left;text-indent:45.15pt;
+mso-char-indent-count:3.5;line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>E.h,q,c,y,a,p,m,s,d,r,f,x</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;
+mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:23.75pt;text-indent:-23.75pt;mso-char-indent-count:
+-1.84;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>61</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．对由<span lang=EN-US>n</span><span class=GramE>个</span>记录所组成的<span
+class=GramE>表按关键码</span>排序时<span lang=EN-US>,</span>下列各个常用排序算法的平均比较次数分别是<span
+lang=EN-US>:</span>二路归并排序为<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp; </span>1<span style='mso-spacerun:yes'>&nbsp;
+</span>),</span>直接插入排序为<span lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp;
+</span>2<span style='mso-spacerun:yes'>&nbsp; </span>),</span>快速排序为<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp; </span>3<span
+style='mso-spacerun:yes'>&nbsp; </span>),</span>其中<span lang=EN-US>,</span>归并排序和快速排序所需要的辅助存储分别是<span
+lang=EN-US>(<span style='mso-spacerun:yes'>&nbsp; </span>4<span
+style='mso-spacerun:yes'>&nbsp; </span>)</span>和<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp; </span>5<span style='mso-spacerun:yes'>&nbsp;
+</span>)</span>。<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【上海海运学院<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:0cm'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>1-5:A. <span class=GramE>O(</span>1)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>B. O</span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>（<span lang=EN-US>nlog<sub>2</sub>n</span>）<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span>C. O</span>（<span
+lang=EN-US>n</span>）<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span>D. O</span>（<span lang=EN-US>n<sup>2</sup></span>）<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>E. O</span>（<span lang=EN-US>n(log<sub>2</sub>n)<sup>2</sup></span>）<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span>F. O</span>（<span
+lang=EN-US>log<sub>2</sub>n</span>） <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:10.95pt;text-indent:-10.95pt;mso-char-indent-count:
+-.85;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体;color:black'>62</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体;color:black'>．将两个各有<span lang=EN-US>N</span><span
+class=GramE>个</span>元素的<span class=GramE>有序表</span>归并成一个<span class=GramE>有序表</span><span
+lang=EN-US>,</span>其最少的比较次数是</span><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>)<span
+style='color:black'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black'>A</span><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>．<span lang=EN-US style='color:black'>N<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span>B</span>．<span lang=EN-US
+style='color:black'>2N<st1:chmetcnv TCSC="0" NumberType="1" Negative="True"
+HasSpace="True" SourceValue="1" UnitName="C" w:st="on">-1<span
+ style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>C</st1:chmetcnv></span>．<span
+lang=EN-US style='color:black'>2N<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span>D</span>．<span lang=EN-US
+style='color:black'>N-1</span>【<span style='color:black'>中科院计算所<span
+lang=EN-US>1998</span></span>】 【中国科技大学<span lang=EN-US> 1998</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>63. </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>基于比较方法的<span lang=EN-US>n</span><span class=GramE>个</span>数据的内部排序。最坏情况下的时间复杂度能达到的最好下界是（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:17.95pt;mso-char-indent-count:1.39;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A. <span class=GramE>O(</span>nlogn)<span
+style='mso-spacerun:yes'>&nbsp; </span>B. O(logn)<span
+style='mso-spacerun:yes'>&nbsp; </span>C. O(n) <span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;</span>D. O(n*n) </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【南京理工大学<span
+lang=EN-US> 1996</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:22.85pt;text-indent:-22.85pt;mso-char-indent-count:
+-1.77;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>64</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．已知待排序的<span lang=EN-US>n</span><span class=GramE>个</span>元素可分为<span
+lang=EN-US>n/k</span><span class=GramE>个</span>组，每个组包含<span lang=EN-US>k</span><span
+class=GramE>个</span>元素，且任一组内的各元素均分别大于前一组内的所有元素和小于后一组内的所有元素，若采用基于比较的排序，其时间下界应为（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;line-height:150%'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>A. <span
+class=GramE>O(</span>nlog<sub>2</sub>n) B. O(nlog<sub>2</sub>k) C. O(klog<sub>2</sub>n)
+D. O(klog<sub>2</sub>k) </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>【中国科技大学<span lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.95pt;mso-char-indent-count:1.0;
+line-height:150%'><b><i><u><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:19.5pt;mso-para-margin-left:1.71gd;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>(1)</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black'>已知待排序的<span lang=EN-US>N</span><span class=GramE>个</span>元素可分为<span
+lang=EN-US>N/K</span><span class=GramE>个</span>组，每个组包含<span lang=EN-US>K</span><span
+class=GramE>个</span>元素，且任一组内的各元素均分别大于前一组内的所有元素和小于后一组内的所有元素<span lang=EN-US>,</span>若采用基于比较的排序<span
+lang=EN-US>,</span>其时间下界应为</span><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>)<span
+style='color:black'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black'>A. <span class=GramE>O(</span>klog<sub>2</sub>k) B.
+O(klog<sub>2</sub>n) C. O(nlog<sub>2</sub>k)<span
+style='mso-spacerun:yes'>&nbsp; </span>D. O(nlog<sub>2</sub>n)<span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>【<span style='color:black'>中科院计算所<span
+lang=EN-US> 1998</span></span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>65</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．采用败者树进行<span lang=EN-US>k</span><span class=GramE>路平衡</span>归并的外部排序算法，其总的归并效率与<span
+lang=EN-US>k </span>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>）<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>． 有关<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>B</span>． 无关<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>【北京工业大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>66</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．采用败者树进行<span lang=EN-US>K</span><span class=GramE>路平衡</span>归并时，总的（包括访外）归并效率与<span
+lang=EN-US>K</span>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>）。<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>A</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．有关<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>B</span>．无关<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;
+</span></span>【北京工业大学<span lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>二、判断题：<span lang=EN-US><o:p></o:p></span></span></b></p>
+
+<p class=MsoNormal style='margin-left:19.35pt;text-indent:-19.35pt;mso-char-indent-count:
+-1.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>1</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．<span class=GramE>当待排序</span>的元素很大时，为了交换元素的位置，移动元素要占用较多的时间，这是影响时间复杂度的主要因素。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span></span>）</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>【长沙铁道学院<span lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>2</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．内排序要求数据一定要以顺序方式存储。 </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【南京理工大学<span
+lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>3</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．排序算法中的比较次数与初始元素序列的排列无关。</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【南京航空航天大学<span
+lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体;mso-font-kerning:0pt'>4</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-font-kerning:0pt'>．排序的稳定性是指排序算法中的比较次数保持不变，且算法能够终止。<span
+style='color:black'>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:6.5pt;mso-para-margin-left:.57gd;
+text-indent:6.45pt;mso-char-indent-count:.5;line-height:150%;tab-stops:list 0cm'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【南京航空航天大学<span
+lang=EN-US> 1996</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:19.35pt;text-indent:-19.35pt;mso-char-indent-count:
+-1.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>5</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．在执行某个排序算法过程中，出现了排序码朝着最终排序序列位置相反方向移动，则该算法是不稳定的。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【上海交通大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>6</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．直接选择排序算法在最好情况下的时间复杂度为<span lang=EN-US>O</span>（<span
+lang=EN-US>N</span>）。</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>（ ）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【合肥工业大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>7</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>． 两分法插入排序所需比较次数与待排序记录的初始排列状态相关。</span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【上海交通大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>8</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．在初始数据表已经有序时，快速排序算法的时间复杂度为<span lang=EN-US>O(nlog<sub>2</sub>n
+)</span>。</span><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%;tab-stops:list 0cm'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>【合肥工业大学<span lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>9</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．在待<span class=GramE>排数据</span>基本有序的情况下，快速排序效果最好。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span></span>）</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>【南京理工大学<span lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:19.35pt;text-indent:-19.35pt;mso-char-indent-count:
+-1.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>10</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．<span class=GramE>当待排序</span>记录已经从小到大排序或者已经从大到小排序时，快速排序的执行时间最省。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span></span>）</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>【上海交通大学<span lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>11</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．快速排序的速度在所有排序方法中为最快<span lang=EN-US>,</span>而且所需附加空间也最少。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span></span>）</span><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:6.5pt;mso-para-margin-left:.57gd;
+text-indent:12.9pt;mso-char-indent-count:1.0;line-height:150%;tab-stops:list 0cm'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【北京邮电大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>12</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．堆肯定是一棵平衡二叉树。</span><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【南京航空航天大学<span
+lang=EN-US> 1997</span>】</span><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体;mso-font-kerning:0pt'>13</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;mso-font-kerning:0pt'>．堆是满二叉树。<span
+style='color:black'>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【南京航空航天大学<span
+lang=EN-US> 1996</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>14</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．（<span lang=EN-US>101</span>，<span
+lang=EN-US>88</span>，<span lang=EN-US>46</span>，<span lang=EN-US>70</span>，<span
+lang=EN-US>34</span>，<span lang=EN-US>39</span>，<span lang=EN-US>45</span>，<span
+lang=EN-US>58</span>，<span lang=EN-US>66</span>，<span lang=EN-US>10</span>）是堆。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（ ）</span><span style='font-size:12.0pt;line-height:150%;font-family:宋体'>【北京邮电大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>15</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．在用堆排序算法排序时，如果要<span class=GramE>进行增序排序</span>，则需要采用“大根堆”。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span></span>）</span><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:list -10.5pt'><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>【合肥工业大学<span lang=EN-US> 2000</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>16</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．堆排序是稳定的排序方法。</span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【上海交通大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>17</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．归并排序辅助存储为<span lang=EN-US>O</span>（<span
+lang=EN-US>1</span>）。</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【青岛大学<span lang=EN-US>
+2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>18</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．在分配排序时，最高位优先分配法比最低位优先分配法简单。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【上海交通大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>19</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．冒泡排序和快速排序都是基于交换两个逆序元素的排序方法<span lang=EN-US>,</span>冒泡排序算法的最坏时间复杂性是<span
+lang=EN-US>O(n*n),</span>而快速排序算法的最坏时间复杂性是<span lang=EN-US>O(nlog<sub>2</sub><sup>n</sup>),</span>所以快速排序比冒泡排序算法效率更高。
+</span><span style='font-size:12.0pt;line-height:150%;font-family:宋体;
+color:black;mso-font-kerning:0pt'>（<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【上海海运学院<span
+lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>20</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．交换排序法是对序列中的元素进行一系列比较，当被比较的两个元素逆序时，进行交换，冒泡排序和快速排序是基于这类方法的两种排序方法，冒泡排序算法的最坏时间复杂性是<u><span
+lang=EN-US>O</span>（<span lang=EN-US>n*n</span>） ，</u>而快速排序算法的最坏时间复杂性是<u><span
+lang=EN-US>O</span>（<span lang=EN-US>nlog<sub>2</sub>n</span>）</u>；所以快速排序比冒泡排序效率更高。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;
+</span></span>）</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>【上海海运学院<span lang=EN-US> 1998</span>】【上海海运学院<span lang=EN-US>
+1995</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>21</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．快速排序和归并排序在最坏情况下的比较次数都是<span lang=EN-US>O(nlog<sub>2</sub>n)</span>。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>）<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.5pt;mso-para-margin-left:.57gd;
+text-indent:12.9pt;mso-char-indent-count:1.0;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【上海海运学院<span
+lang=EN-US>1996</span>】</span><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>22</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．在任何情况下，归并排序都比简单插入排序快。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【北京邮电大学<span
+lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>23</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．归并排序在任何情况下都比所有简单排序速度快。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>（<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【北京邮电大学<span
+lang=EN-US> 2002</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>24</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．快速排序总比简单排序快。</span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span>）</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【东南大学<span lang=EN-US>
+2001</span>】<b><span lang=EN-US><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>25. </span><span class=GramE><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>中序周游</span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>（遍历）平衡<span
+class=GramE>的二叉排序</span>树，可得到最好排序的关键码序列。</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span></span>）</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:6.5pt;mso-para-margin-left:.57gd;
+text-indent:12.9pt;mso-char-indent-count:1.0;line-height:150%;tab-stops:list 0cm'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【中山大学<span lang=EN-US>
+1994</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>26</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>．外部排序是把外存文件调入内存<span lang=EN-US>,</span>可利用内部排序的方法进行排序<span
+lang=EN-US>,</span>因此排序所花的时间取决于内部排序的时间。<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>【北京邮电大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>27</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．在外部排序时，利用选择<span class=GramE>树方法</span>在能容纳<span
+lang=EN-US>m</span><span class=GramE>个</span>记录的内存缓冲区中产生的初始归并段的平均长度为<st1:chmetcnv
+TCSC="0" NumberType="1" Negative="False" HasSpace="False" SourceValue="2"
+UnitName="m" w:st="on"><span lang=EN-US>2m</span></st1:chmetcnv><span
+class=GramE>个</span>记录。<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)</span>【上海海运学院<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>28</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．为提高在外排序过程中，对长度为<span lang=EN-US>N</span>的初始序列进行“置换—选择”排序时，可以得到的最大初始有序段的长度不超过<span
+lang=EN-US>N/2</span>。<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span>)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>29</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．排序速度，进行外排序时，必须选用最快的内排序算法。<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>)<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>30</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．在完成外排序过程中，每个记录的<span lang=EN-US>I/O</span>次数必定相等。<span
+lang=EN-US>( )</span>【大连海事大学<span lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>31</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．影响外排序的时间因素主要是内存与外设交换信息的总次数。<span lang=EN-US>(<span
+style='mso-spacerun:yes'>&nbsp; </span>)</span>【东北大学<span lang=EN-US> 1997</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='line-height:150%'><b><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>三、填空题</span></b><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:19.35pt;text-indent:-19.35pt;mso-char-indent-count:
+-1.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>1</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．若不考虑基数排序，则在排序过程中，主要进行的两种基本操作是关键字的<span
+lang=EN-US>______</span>和记录的<span lang=EN-US>_____</span>。【北京邮电大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>2. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>外排序的基本操作过程是<span lang=EN-US>_______</span>和<span
+lang=EN-US>_______</span>。【西安电子科技大学<span lang=EN-US> 1998</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.95pt;mso-char-indent-count:1.0;
+line-height:150%'><b><i><u><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>类似本题的另外叙述有：<span lang=EN-US><o:p></o:p></span></span></u></i></b></p>
+
+<p class=MsoNormal style='text-indent:6.45pt;mso-char-indent-count:.5;
+line-height:150%;tab-stops:list 0cm'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>1</span>）外部排序中两个相对独立的阶段是<span
+lang=EN-US>___</span>和<span lang=EN-US>___</span>。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【西安电子科技大学<span
+lang=EN-US> 1999</span>软件】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>3. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>属于不稳定排序的有<span lang=EN-US>__________</span>。【青岛大学<span
+lang=EN-US> 2002</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:19.35pt;text-indent:-19.35pt;mso-char-indent-count:
+-1.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>4</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．分别采用堆排序，快速排序，冒泡排序和归并排序，对初态为有序的表，则最省时间的是<span
+lang=EN-US>_____</span>算法，最费时间的是<span lang=EN-US>______</span>算法。【福州大学<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.95pt;mso-char-indent-count:1.0;
+line-height:150%'><b><i><u><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:13.0pt;mso-para-margin-left:1.14gd;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体;color:black;mso-font-kerning:0pt'>（<span lang=EN-US>1</span>）设表中元素的初始状态是<span
+class=GramE>按健值递增</span>的，分别用堆排序，快速排序，冒泡排序和归并排序方法对其进行排序（按递增顺序）， </span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>__</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>排序最省时间，</span><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>__</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体;color:black;mso-font-kerning:0pt'>排序最费时间。</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>厦门大学<span lang=EN-US> 2001</span>】</span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'>5. </span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>不受待排序初始序列的影响，时间复杂度为<span lang=EN-US>O(N<sup>2</sup>)</span>的排序算法是</span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>_____</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>，在排序算法的最后一趟开始之前，所有元素都可能不在其最终位置上的排序算法是</span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>_____</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>。</span><span style='font-size:12.0pt;line-height:150%;font-family:宋体'>【</span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:
+0pt'>中国人民大学<span lang=EN-US> 2001</span></span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>】</span><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体;color:black;mso-font-kerning:0pt'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>6</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．直接插入排序用监视哨的作用是<span lang=EN-US>_______</span>。【南京理工大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>7</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．对<span lang=EN-US>n</span><span class=GramE>个</span>记录的表<span
+lang=EN-US>r[1..n]</span>进行简单选择排序，所需进行的关键字间的比较次数为<span lang=EN-US>_______</span>。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>【华中理工大学<span lang=EN-US> 2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>8. </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>用链表表示的数据的简单选择排序，结点的域为数据域<span lang=EN-US>data </span>，指针域<span
+lang=EN-US> next </span>；链表首指针为<span lang=EN-US>head </span>，链表无头结点。<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>selectsort(</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>head)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>p=head;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:22.5pt;line-height:150%'><span
+class=GramE><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>while</span></span><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'> (p<u>(1)</u>_______)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:38.2pt;mso-char-indent-count:2.96;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>{q=p; r<span class=GramE>=<u>(</u></span><u>2)</u>_______<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>while(</span><u>(3)</u>______ )<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:58.05pt;mso-char-indent-count:4.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>{<span class=GramE>if</span> (<u>(4)</u>_______ )<span
+style='mso-spacerun:yes'>&nbsp; </span>q=r;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>r<span class=GramE>=<u>(</u></span><u>5)</u>_______ ; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:58.05pt;mso-char-indent-count:4.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>tmp=</span>q-&gt;data; q-&gt;data=p-&gt;data; p-&gt;data=tmp; p= <u>(6)</u>_______
+; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%;tab-stops:27.0pt 36.0pt 45.0pt'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>}<span
+style='mso-spacerun:yes'>&nbsp; </span></span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>【南京理工大学<span lang=EN-US> 2000</span>】<span
+lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>9</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．下面的<span lang=EN-US>c</span>函数实现对链表<span
+lang=EN-US>head</span>进行选择排序的算法<span lang=EN-US>,</span>排序完毕<span lang=EN-US>,</span>链表中的结点按结点值从小到大链接。请在空框处填上适当内容<span
+lang=EN-US>,</span>每个空框只填一个语句或一个表达式：<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>#include &lt;stdio.h&gt;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>typedef</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'> struct node {char
+data; struct node *link; }node;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>node</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'> *select(node *head)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>{<span class=GramE>node</span> *p,*q,*r,*s; <o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>p<span class=GramE>=(</span>node *)malloc(sizeof(node));<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span><span class=GramE>p</span>-&gt;link=head;
+head=p;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>while(</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>p-&gt;link!=null)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>{q=p-&gt;link; r=p;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>while</span> (<u>(1)</u>____)<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%;tab-stops:36.0pt'><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span><span class=GramE>{ if</span>
+(q-&gt;link-&gt;data&lt;r-&gt;link-&gt;data) r=q;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>q=q-&gt;link;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:45.15pt;mso-char-indent-count:3.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'><span style='mso-spacerun:yes'>&nbsp; </span>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=GramE>if</span> (<u>(2)</u>____) {s=r-&gt;link; r-&gt;link=s-&gt;link;
+s-&gt;link= (<u>(3)</u>_____); (<u>(4)</u>_____);}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>(<u>(5<span
+class=GramE>)<span style='text-decoration:none;text-underline:none'>_</span></span></u>___)
+;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='line-height:150%;tab-stops:18.0pt 27.0pt'><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>p=head; head=head-&gt;link; <span class=GramE>free(</span>p);
+return(head);<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:12.9pt;mso-char-indent-count:1.0;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>} </span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>【复旦大学<span lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>10</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．下面的排序算法的思想是：第一趟比较将最小的元素放在<span lang=EN-US>r[1]</span>中，最大的元素放在<span
+lang=EN-US>r[n]</span>中，第二趟比较将次小的放在<span lang=EN-US>r[2]</span>中，将次大的放在<span
+lang=EN-US>r[n-1]</span>中，…<span lang=EN-US>,</span>依次下去，直到待排序列为递增序。（注：<span
+lang=EN-US>&lt;--&gt;</span>）代表两个变量的数据交换）。<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:38.7pt;mso-char-indent-count:3.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>void<span style='mso-spacerun:yes'>&nbsp;
+</span>sort</span></span><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>(SqList &amp;r,int n)<span style='mso-spacerun:yes'>&nbsp;
+</span>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:19.6pt;text-indent:-19.6pt;mso-char-indent-count:
+-1.52;line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:
+150%;font-family:宋体'><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span>i=1;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:38.7pt;mso-char-indent-count:3.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>while(</span></span><u><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>(1)</span></u><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>__)<span
+style='mso-spacerun:yes'>&nbsp;&nbsp; </span>{<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:38.7pt;mso-char-indent-count:3.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>min=</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>max=1;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:38.7pt;mso-char-indent-count:3.0;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>for</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'> (j=i+1;<u>(2)</u>____
+;++j)<span style='mso-spacerun:yes'>&nbsp; </span><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:45.15pt;mso-char-indent-count:3.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>{<span class=GramE>if(</span><u>(3)</u>____) min=j; else
+if(r[j].key&gt;r[max].key)<span style='mso-spacerun:yes'>&nbsp; </span>max=j; }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:40.65pt;mso-char-indent-count:3.15;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>if(</span></span><u><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>(4)</span></u><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>_____)
+r[min] &lt; ---- &gt;r[j];<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:40.65pt;mso-char-indent-count:3.15;
+line-height:150%'><span class=GramE><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>if(</span></span><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>max!=n-i+1){if (<u>(5)</u>___)
+r[min] &lt; ---- &gt; r[n-i+1]; else (<u>(6)</u>__); }<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:40.65pt;mso-char-indent-count:3.15;
+line-height:150%;tab-stops:27.0pt'><span class=GramE><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>i</span></span><span
+lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:宋体'>++;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:40.65pt;mso-char-indent-count:3.15;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>}<o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>}//sort </span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>【南京理工大学<span lang=EN-US> 2001</span>】<b> <span
+lang=EN-US><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>11. </span><span class=GramE><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>设用希尔</span></span><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>排序对数组<span lang=EN-US>{98</span>，<span
+lang=EN-US>36</span>，<span lang=EN-US>-9</span>，<span lang=EN-US>0</span>，<span
+lang=EN-US>47</span>，<span lang=EN-US>23</span>，<span lang=EN-US>1</span>，<span
+lang=EN-US>8</span>，<span lang=EN-US>10</span>，<span lang=EN-US>7}</span>进行排序，给出的步长（也称增量序列）依次是<span
+lang=EN-US>4</span>，<span lang=EN-US>2</span>，<span lang=EN-US>1</span>则排序需<span
+lang=EN-US>__________</span>趟，写出第一趟结束后，数组中数据的排列次序<span lang=EN-US>__________</span>。
+【南京理工大学<span lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>12</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．从平均时间性能而言，<span lang=EN-US>__________</span>排序最佳。【青岛大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US style='color:black'><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>13</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．对于<span lang=EN-US>7</span>个元素的集合<span
+lang=EN-US>{1</span>，<span lang=EN-US>2</span>，<span lang=EN-US>3</span>，<span
+lang=EN-US>4</span>，<span lang=EN-US>5</span>，<span lang=EN-US>6</span>，<span
+lang=EN-US>7}</span>进行快速排序，具有最小比较和交换次数的初始排列次序为<span lang=EN-US>_____</span>。【长沙铁道学院<span
+lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>14</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．快速排序在<span lang=EN-US>_____</span>的情况下最易发挥其长处。【长沙铁道学院<span
+lang=EN-US> 1998</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.95pt;mso-char-indent-count:1.0;
+line-height:150%'><b><i><u><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='text-indent:19.35pt;mso-char-indent-count:1.5;
+line-height:150%'><span lang=EN-US style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>(1)</span><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>快速排序法在<span lang=EN-US>_____</span>情况下最不利于发挥其长处，在<span
+lang=EN-US>_____</span>情况下最易发挥其长处。 <span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:21.0pt;line-height:150%'><span
+style='font-size:12.0pt;line-height:150%;font-family:宋体'>【山东大学<span lang=EN-US>
+2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>15</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．在数据表有序时，快速排序算法的时间复杂度是<span lang=EN-US>____</span>。【合肥工业大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>16</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．堆排序的算法时间复杂度为：<span lang=EN-US>_____</span>。【合肥工业大学<span
+lang=EN-US> 1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>17</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．堆是一种有用的数据结构。试判断下面的关键码序列中哪一个是堆<span
+lang=EN-US>__________</span>。<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:list 0cm'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>①<span lang=EN-US>16</span>，<span lang=EN-US>72</span>，<span
+lang=EN-US>31</span>，<span lang=EN-US>23</span>，<span lang=EN-US>94</span>，<span
+lang=EN-US>53<span style='mso-spacerun:yes'>&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span></span>②<span lang=EN-US>94</span>，<span
+lang=EN-US>53</span>，<span lang=EN-US>31</span>，<span lang=EN-US>72</span>，<span
+lang=EN-US>16</span>，<span lang=EN-US>23 <span
+style='mso-spacerun:yes'>&nbsp;</span></span>③<span lang=EN-US>16</span>，<span
+lang=EN-US>53</span>，<span lang=EN-US>23</span>，<span lang=EN-US>94</span>，<span
+lang=EN-US>31</span>，<span lang=EN-US>72<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:25.8pt;mso-char-indent-count:2.0;
+line-height:150%;tab-stops:list 0cm'><span style='font-size:12.0pt;line-height:
+150%;font-family:宋体'>④<span lang=EN-US>16</span>，<span lang=EN-US>31</span>，<span
+lang=EN-US>23</span>，<span lang=EN-US>94</span>，<span lang=EN-US>53</span>，<span
+lang=EN-US>72<span style='mso-spacerun:yes'>&nbsp; </span><span
+style='mso-spacerun:yes'>&nbsp;</span></span>⑤<span lang=EN-US>94</span>，<span
+lang=EN-US>31</span>，<span lang=EN-US>53</span>，<span lang=EN-US>23</span>，<span
+lang=EN-US>16</span>，<span lang=EN-US>72<o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:26.0pt;mso-para-margin-left:2.28gd;
+line-height:150%'><span style='font-size:12.0pt;line-height:150%;font-family:
+宋体'>堆排序是一种<u><span lang=EN-US>_(1)_</span></u>类型的排序，它的一个基本问题是如何建堆，常用<span
+class=GramE>的建堆算法</span>是<span lang=EN-US>1964</span>年<span lang=EN-US>Floyd</span>提出的<u><span
+lang=EN-US>_(2)_</span></u>，对含有<span lang=EN-US>n</span><span class=GramE>个</span>元素的序列进行排序时<span
+lang=EN-US>,</span>堆排序的时间复杂度是<u><span lang=EN-US>_(3)_</span></u>，所需要的附加结点是<u><span
+lang=EN-US>_(4)_</span></u>。【山东工业大学<span lang=EN-US> 1994</span>】<b><span
+lang=EN-US><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>18</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．堆是一种有用的数据结构<span lang=EN-US>. </span>堆排序是一种<u><span
+lang=EN-US>_(1)_</span></u>排序，堆实质上是一棵<u><span lang=EN-US>_(2)_</span></u>结点的层次序列。对含有<span
+lang=EN-US>N</span><span class=GramE>个</span>元素的序列进行排序时，堆排序的时间复杂度是<u><span
+lang=EN-US>_(3)_</span></u>，所需的附加存储结点是<u><span lang=EN-US>_(4)_</span></u>。关键码序列<span
+lang=EN-US>05</span>，<span lang=EN-US>23</span>，<span lang=EN-US>16</span>，<span
+lang=EN-US>68</span>，<span lang=EN-US>94</span>，<span lang=EN-US>72</span>，<span
+lang=EN-US>71</span>，<span lang=EN-US>73</span>是否满足堆的性质<u><span lang=EN-US>_(5)_</span></u>。
+<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.85pt;mso-para-margin-left:.57gd;
+text-indent:-19.35pt;mso-char-indent-count:-1.5;line-height:150%;tab-stops:
+list 0cm'><span lang=EN-US style='font-size:12.0pt;line-height:150%;font-family:
+宋体'><span style='mso-spacerun:yes'>&nbsp;</span></span><span style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>【山东工业大学<span lang=EN-US> 1996</span>】<b><span
+lang=EN-US><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>19</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．设有字母序列<span lang=EN-US>{Q,D,F,X,A,P,N,B,Y,M,C,W},</span>请写出按<span
+lang=EN-US>2</span>路归并排序方法对该序列进行一趟扫描后的结果<span lang=EN-US>_______</span>。<span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp; </span></span>【北方交通大学<span
+lang=EN-US> 2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:19.35pt;text-indent:-19.35pt;mso-char-indent-count:
+-1.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>20</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．关键码序列（<span lang=EN-US> Q</span>，<span
+lang=EN-US>H</span>，<span lang=EN-US>C</span>，<span lang=EN-US>Y</span>，<span
+lang=EN-US>Q</span>，<span lang=EN-US>A</span>，<span lang=EN-US>M</span>，<span
+lang=EN-US>S</span>，<span lang=EN-US>R</span>，<span lang=EN-US>D</span>，<span
+lang=EN-US>F</span>，<span lang=EN-US>X</span>），要<span class=GramE>按照关</span>键码值递增的次序进行排序，若采用初始步长为<span
+lang=EN-US>4</span>的<span lang=EN-US>Shell</span>排序法，则一趟扫描的结果是<span lang=EN-US>_____</span>；若采用以第一个元素为分界元素的快速排序法，则扫描一趟的结果是<span
+lang=EN-US>______</span>。<span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;
+</span></span>【北京大学<span lang=EN-US> 1997</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='text-indent:12.95pt;mso-char-indent-count:1.0;
+line-height:150%'><b><i><u><span style='font-size:12.0pt;line-height:150%;
+font-family:宋体'>类似本题的另外叙述有：</span></u></i></b><span lang=EN-US
+style='font-size:12.0pt;line-height:150%;font-family:宋体'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-left:13.0pt;mso-para-margin-left:1.14gd;
+line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>(1)</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>设有字符序列<span lang=EN-US>Q</span>、<span
+lang=EN-US>H</span>、<span lang=EN-US>C</span>、<span lang=EN-US>Y</span>、<span
+lang=EN-US>P</span>、<span lang=EN-US>A</span>、<span lang=EN-US>M</span>、<span
+lang=EN-US>S</span>、<span lang=EN-US>R</span>、<span lang=EN-US>D</span>、<span
+lang=EN-US>F</span>、<span lang=EN-US>X</span>要求按字符升序排序，采用初始步长为４的希尔（<span
+lang=EN-US>shell</span>）排序，一趟扫描的结果是<span lang=EN-US>____;</span>采用以首元素为分界元素的快速排序，一趟扫描的结果是<span
+lang=EN-US>_____</span>。【北京工业大学 <span lang=EN-US>1999</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:6.45pt;text-indent:-6.45pt;mso-char-indent-count:
+-.5;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>21</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．外部排序的基本方法是归并排序，但在之前必须先生成<span lang=EN-US>___</span>。【北京邮电大学<span
+lang=EN-US>2001</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>22</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．磁盘排序过程主要是先生成<u><span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></u>，然后对<u><span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></u>合并，而提高排序速度很重要的是<u><span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp; </span></span></u>，我们将采用<u><span
+lang=EN-US><span style='mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></u>方法来提高排序速度。<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span></span>【山东工业大学<span lang=EN-US> 1995</span>】<b><span
+lang=EN-US><o:p></o:p></span></b></span></p>
+
+<p class=MsoNormal style='margin-left:25.8pt;text-indent:-25.8pt;mso-char-indent-count:
+-2.0;line-height:150%;tab-stops:list 0cm'><span lang=EN-US style='font-size:
+12.0pt;line-height:150%;font-family:宋体'>23</span><span style='font-size:12.0pt;
+line-height:150%;font-family:宋体'>．设输入的关键字满足<span lang=EN-US>k1&gt;k2&gt;</span>…<span
+lang=EN-US>&gt;kn</span>，缓冲区大小为<span lang=EN-US>m</span>，用置换<span lang=EN-US>-</span>选择排序方法可产生<span
+lang=EN-US>____</span><span class=GramE>个</span>初始归并段。【武汉大学<span lang=EN-US><span
+style='mso-spacerun:yes'>&nbsp; </span>2000</span>】<span lang=EN-US><o:p></o:p></span></span></p>
+
+</div>
+
+</body>
+
+</html>

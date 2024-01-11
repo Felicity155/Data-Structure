@@ -1,0 +1,9 @@
+﻿  Bigzuoye.cpp
+E:\数据结构\Bigzuoye\Bigzuoye.cpp(19,1): warning C4005: “_CRT_SECURE_NO_WARNINGS”: 宏重定义
+E:\数据结构\Bigzuoye\Bigzuoye.cpp : message : 参见“_CRT_SECURE_NO_WARNINGS”的前一个定义
+  正在生成代码
+  0 of 32 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Bigzuoye.vcxproj -> E:\数据结构\Bigzuoye\x64\Release\Bigzuoye.exe
